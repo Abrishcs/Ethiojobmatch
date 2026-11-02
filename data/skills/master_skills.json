@@ -1,0 +1,92 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "C Programming",
+    "Go", "Golang", "Rust", "PHP", "Ruby", "Swift", "Kotlin", "R",
+    "MATLAB", "Scala", "Perl", "Dart", "Lua", "Shell", "Bash",
+    "PowerShell", "SQL", "PL/SQL", "VBA", "Assembly", "COBOL"
+  ],
+  "web_frontend": [
+    "React", "React.js", "ReactJS", "Angular", "AngularJS", "Vue",
+    "Vue.js", "Next.js", "Nuxt.js", "HTML", "CSS", "SCSS", "SASS",
+    "Bootstrap", "Tailwind CSS", "Material UI", "jQuery", "Redux",
+    "GraphQL", "REST API", "RESTful API", "WebSocket", "Webpack",
+    "Vite", "Svelte"
+  ],
+  "web_backend": [
+    "Node.js", "Express", "Express.js", "Django", "Flask", "FastAPI",
+    "Spring Boot", "Spring", "Laravel", "Ruby on Rails", "ASP.NET",
+    ".NET", "NestJS", "Fastify", "Gin", "Echo", "Fiber",
+    "Frappe", "ERPNext", "Odoo", "WordPress", "Drupal"
+  ],
+  "mobile": [
+    "Android", "iOS", "Flutter", "React Native", "Kotlin", "Swift",
+    "Jetpack Compose", "Xamarin", "Ionic", "Capacitor"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite", "Oracle",
+    "SQL Server", "MSSQL", "MariaDB", "Cassandra", "DynamoDB",
+    "Firebase", "Supabase", "Elasticsearch", "Neo4j", "CockroachDB"
+  ],
+  "cloud_devops": [
+    "AWS", "Azure", "GCP", "Google Cloud", "Docker", "Kubernetes",
+    "K8s", "CI/CD", "Jenkins", "GitHub Actions", "GitLab CI",
+    "Terraform", "Ansible", "Nginx", "Apache", "Linux", "Ubuntu",
+    "CentOS", "Heroku", "Vercel", "Netlify", "DigitalOcean",
+    "CloudFormation", "Helm", "Prometheus", "Grafana", "ELK Stack"
+  ],
+  "data_ml": [
+    "Machine Learning", "Deep Learning", "NLP", "Natural Language Processing",
+    "Computer Vision", "Data Science", "Data Analysis", "Data Engineering",
+    "TensorFlow", "PyTorch", "Keras", "scikit-learn", "Pandas", "NumPy",
+    "Matplotlib", "Seaborn", "Hugging Face", "BERT", "Transformers",
+    "LLM", "RAG", "OpenCV", "YOLO", "Power BI", "Tableau", "Looker",
+    "Excel", "Spark", "Hadoop", "Airflow", "dbt", "MLflow",
+    "Feature Engineering", "Model Deployment", "A/B Testing",
+    "Statistical Analysis", "Regression", "Classification",
+    "Neural Network", "CNN", "RNN", "LSTM", "Attention"
+  ],
+  "security": [
+    "Cybersecurity", "Network Security", "Penetration Testing",
+    "Ethical Hacking", "SIEM", "SOC", "Firewall", "VPN",
+    "Encryption", "PKI", "Zero Trust", "OWASP", "Vulnerability Assessment",
+    "Incident Response", "CISSP", "CEH", "Security+"
+  ],
+  "networking": [
+    "TCP/IP", "DNS", "DHCP", "BGP", "OSPF", "MPLS", "SD-WAN",
+    "Cisco", "Huawei", "Network Administration", "LAN", "WAN",
+    "VoIP", "Routing", "Switching", "Wireshark", "Network Monitoring",
+    "IP", "Fiber Optics", "5G", "4G", "LTE"
+  ],
+  "tools_practices": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Confluence",
+    "Agile", "Scrum", "Kanban", "DevOps", "TDD", "BDD",
+    "Unit Testing", "Integration Testing", "Postman", "Swagger",
+    "API Testing", "Microservices", "Monolithic", "System Design",
+    "OOP", "Design Patterns", "SOLID", "Clean Code",
+    "Code Review", "Documentation", "Technical Writing",
+    "AutoCAD", "CAD", "GIS", "GPS Tracking", "Fleet Management",
+    "IT Support", "Help Desk", "Troubleshooting", "Active Directory",
+    "Microsoft Office", "Power Automate", "Power Apps",
+    "SharePoint", "Microsoft 365", "Windows Server",
+    "Network Administration", "System Administration",
+    "CCTV", "Access Control", "Video Surveillance",
+    "IP Camera", "Telematics"
+  ],
+  "fintech_erp": [
+    "Fintech", "Digital Payment", "Mobile Banking", "Core Banking",
+    "SWIFT", "Telebirr", "M-Pesa", "SAP", "Oracle ERP",
+    "QuickBooks", "Accounting Software", "ERP", "CRM", "Salesforce",
+    "HubSpot", "Zoho"
+  ],
+  "soft_skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Critical Thinking", "Time Management", "Project Management",
+    "Analytical Skills", "Attention to Detail", "Adaptability",
+    "Collaboration", "Presentation", "Negotiation", "Mentoring"
+  ],
+  "certifications": [
+    "AWS Certified", "Azure Certified", "Google Certified",
+    "PMP", "CCNA", "CCNP", "CompTIA", "ITIL", "Scrum Master",
+    "Certified Ethical Hacker", "OSCP", "CPA", "ACCA"
+  ]
+}

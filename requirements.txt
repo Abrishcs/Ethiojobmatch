@@ -1,0 +1,31 @@
+# ── Core NLP & ML ──────────────────────────────────────────────────────────────
+sentence-transformers==2.7.0       # SBERT semantic embeddings
+spacy==3.7.5                       # NLP pipeline, NER, tokenization
+scikit-learn==1.5.0                # Cosine similarity, utilities
+
+# ── Document Parsing ───────────────────────────────────────────────────────────
+pdfplumber==0.11.0                 # Extract text from PDF resumes
+python-docx==1.1.2                 # Extract text from DOCX resumes
+
+# ── Telegram Scraping ──────────────────────────────────────────────────────────
+telethon==1.36.0                   # Telegram client (reads public channels)
+
+# ── Web Scraping ───────────────────────────────────────────────────────────────
+requests==2.32.3                   # HTTP requests for Ethiojobs
+beautifulsoup4==4.12.3             # HTML parsing
+lxml==5.2.2                        # Faster HTML parser for BeautifulSoup
+
+# ── Date Handling ──────────────────────────────────────────────────────────────
+dateparser==1.2.0                  # Flexible date parsing (English)
+ethiopian-date==1.5.2              # Ethiopian ↔ Gregorian calendar conversion
+
+# ── Frontend ───────────────────────────────────────────────────────────────────
+streamlit==1.35.0                  # Web UI
+
+# ── Environment & Config ───────────────────────────────────────────────────────
+python-dotenv==1.0.1               # Load .env secrets safely
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+pandas==2.2.2                      # Data manipulation
+numpy==1.26.4                      # Numerical operations
+tqdm==4.66.4                       # Progress bars

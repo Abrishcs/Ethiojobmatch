@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data — raw scraped data and large binaries
+data/raw/
+data/processed/job_embeddings.npy
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets — NEVER COMMIT THESE
+.env
+*.session
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
